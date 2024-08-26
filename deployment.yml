@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: reactapplication
-        image: swainvikash/reactapplication:latest
+        image: reactapplication:latest
         ports:
         - containerPort: 80
 
