@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: react-application-deployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: reactapplication
+  template:
+    metadata:
+      labels:
+        app: reactapplication
+    spec:
+      containers:
+      - name: reactapplication
+        image: swainvikash/reactapplication:latest
+        ports:
+        - containerPort: 80
+
