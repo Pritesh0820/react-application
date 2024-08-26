@@ -36,7 +36,7 @@ step 14 - kubectl get svc (# to check the status of service)
 
 step 15 - kubectl get svc react-application-service (#to get the details of svc and url)
 
-step 16 - public-ip:31110 (hit this url on web)
+step 16 - 44.210.93.21:31110 (hit this url on web)
 
 
 This is a React To do list app developed by me to learn and enhance my react skills.
