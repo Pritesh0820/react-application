@@ -42,19 +42,8 @@ step 16 - public-ip:31110 (hit this url on web)
 This is a React To do list app developed by me to learn and enhance my react skills.
 
  
- ## Tech Stack
-
-  `React` `HTML` `CSS` `Javascript`
-
- ## Learnings
-
-  - React
-  - React hooks
-  - React props
-  - functions
-  - State management
-  - data processing
-  - Error resolving
 
   ## Screen-shots
+![react-application](https://github.com/user-attachments/assets/4f9d00f3-11f9-4101-bea2-a356b7de0a9f)
+![kubernetesdata](https://github.com/user-attachments/assets/c8f3b6e7-f887-4174-9a5c-46f1495651e4)
 
