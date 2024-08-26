@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: reactapplication
-        image: reactapplication:latest
+        image: jhapritesh/reactapplication:latest
         ports:
         - containerPort: 80
 
